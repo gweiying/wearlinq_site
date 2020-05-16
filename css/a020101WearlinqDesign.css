@@ -1,0 +1,3654 @@
+
+
+.a020101wearlinqdesign {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 6770px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.a020101wearlinqdesign .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6492px;
+  height              : 278px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .ovalovalmask {
+  background-color    : rgba(244, 249, 249, 1.0);
+  top                 : 0px;
+  height              : 278px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .ovalovalmask .mask {
+  background-color    : rgba(244, 249, 249, 1.0);
+  top                 : 0px;
+  height              : 278px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .ovalovalmask .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -116px;
+  height              : 510px;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1007px;
+  transform           : rotate(0deg);
+  opacity             : 0.1;
+}
+.a020101wearlinqdesign .footer .ovalovalmask .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -421px;
+  height              : 1120px;
+  width               : 1120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 702px;
+  transform           : rotate(0deg);
+  opacity             : 0.04;
+}
+.a020101wearlinqdesign .footer .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : 122px;
+  width               : 1080px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .group17 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 122px;
+  width               : 1080px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .group17 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 67px;
+  width               : 960px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .group17 .group5 .disclaimer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.a020101wearlinqdesign .footer .group17 .group5 .theewaveisnotyet {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 840px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .footer .group17 .rectangle1 {
+  background-color    : rgba(248, 64, 64, 1.0);
+  top                 : 120px;
+  height              : 2px;
+  width               : 1080px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : 26px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 184px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 19px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 213px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .fill429 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1236px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .fill429 .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .fill400 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1192px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .fill400 .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .fill403 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .fill403 .facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .footer .a2512020wearlinqall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 179px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block8signup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6083px;
+  height              : 379px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .rectangle7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 377px;
+  width               : 1238px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .signuptogetnotif {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : auto;
+  width               : 486px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.a020101wearlinqdesign .block8signup .rectangle71 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 117px;
+  height              : 66px;
+  box-sizing          : border-box;
+  width               : 337px;
+  position            : absolute;
+  margin              : 0;
+  left                : 794px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(232, 232, 232, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .buttonarow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1075px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .buttonarow .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .buttonarow .icons20pxback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .emailaddress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(204, 204, 204, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.a020101wearlinqdesign .block8signup .rectangle72 {
+  background-color    : rgba(251, 72, 72, 1.0);
+  top                 : 93px;
+  height              : 26px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block8signup .a20discount {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4993px;
+  height              : 980px;
+  width               : 1080px;
+  position            : absolute;
+  margin              : 0;
+  left                : 130px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .theteambehindwear {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 317px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : center;
+  line-height         : 48.0px;
+}
+.a020101wearlinqdesign .block7ourteam .theideastartedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 230px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 218px;
+  height              : 200px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a1 .msmsestanfordso {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 176px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a1 .ceowearlinq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a1 .konradmorzkowski {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a1 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a1 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 218px;
+  height              : 200px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a2 .phdbioestanfords {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 176px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a2 .cto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a2 .yuxinliu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a2 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a2 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 218px;
+  height              : 202px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 740px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a3 .msmsestanfordso {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a3 .foundingteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a3 .ajrogers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a3 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a3 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 489px;
+  height              : 199px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a11 .mscsstanfordarti {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 175px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a11 .foundingteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a11 .alexisweiying {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a11 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a11 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 489px;
+  height              : 199px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a21 .phdeentucircuit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 175px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a21 .foundingteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a21 .huiqiaohe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a21 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a21 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 488px;
+  height              : 200px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 740px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a31 .departmentchairche {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 176px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a31 .technicaladvisor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a31 .zhenanbaophd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a31 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a31 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 758px;
+  height              : 202px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a12 .multiplecfoexitsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a12 .businessadvisor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a12 .jackfuchsmba {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a12 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a12 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 748px;
+  height              : 202px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a22 .qsdevicedesigns {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 188px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a22 .regulatoryadvisor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a22 .rorycarrilloms {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block7ourteam .a22 .screenshot20200512at100445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block7ourteam .a22 .screenshot20200512at100445 .screenshot20200512at1004451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 160px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4486px;
+  height              : 307px;
+  width               : 972px;
+  position            : absolute;
+  margin              : 0;
+  left                : 239px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .availablespring202 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 280px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.2px;
+  line-height         : 50.0px;
+}
+.a020101wearlinqdesign .block6timeline .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 200px;
+  height              : 59px;
+  width               : 243px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group3 .q22020 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block6timeline .group3 .launchcampaign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.a020101wearlinqdesign .block6timeline .group3 .indiegogologogreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 12px;
+  width               : 86px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 200px;
+  height              : 107px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 341px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group3copy .q32020 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block6timeline .group3copy .selectedpeoplerece {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.a020101wearlinqdesign .block6timeline .group3copy .selectedpeoplerece .span1 {
+  
+}
+.a020101wearlinqdesign .block6timeline .group3copy .selectedpeoplerece .span2 {
+  color               : rgba(36, 200, 157, 1.0);
+  text-decoration     : underline;
+}
+.a020101wearlinqdesign .block6timeline .group3copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 200px;
+  height              : 59px;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 711px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group3copy2 .q22021 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 92px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block6timeline .group3copy2 .fdaapprovalprodu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.a020101wearlinqdesign .block6timeline .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 36px;
+  width               : 748px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .progress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 4px;
+  width               : 368px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .progress1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 4px;
+  width               : 351px;
+  position            : absolute;
+  margin              : 0;
+  left                : 389px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 728px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .dot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 17px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 717px;
+  transform           : rotate(-180deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .check {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 9px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .check .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .progress2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  transform           : rotate(-180deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block6timeline .group8 .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 388px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block5testimonails {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3722px;
+  height              : 614px;
+  width               : 1350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block5testimonails .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 614px;
+  width               : 1350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 16px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block5testimonails .u201c {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : 72px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 624px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block5testimonails .theewaveisthebes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : auto;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 676px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 36.0px;
+}
+.a020101wearlinqdesign .block5testimonails .ajrogers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 416px;
+  height              : auto;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 676px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block5testimonails .cardiovascularmedic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 453px;
+  height              : auto;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 676px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3120px;
+  height              : 391px;
+  width               : 1169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .keepapulseonyour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.4px;
+  line-height         : 50.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .theewaveempowersy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : 120px;
+  width               : 515px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .group .shortnessofbreath {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .group .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy3 .chestpain {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy3 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy6 .anxiety {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy6 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 22px;
+  width               : 174px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy .lightheadedness {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 22px;
+  width               : 97px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy4 .dizziness {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy4 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 22px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy7 .presyncope {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy7 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 97px;
+  height              : 22px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy2 .palpitations {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy2 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : 22px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy5 .fatigue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy5 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : 22px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy8 .fainting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .group2 .groupcopy8 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .right {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 356px;
+  width               : 487px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .right .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 216px;
+  height              : 140px;
+  width               : 487px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block4keepapulse .right .a73 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 140.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : center;
+  letter-spacing      : -7.0px;
+  line-height         : 168.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .right .bpm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 322px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.33px;
+  line-height         : 36.0px;
+}
+.a020101wearlinqdesign .block4keepapulse .right .iconheart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1965px;
+  height              : 1075px;
+  width               : 1350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .empoweringyouwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : auto;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.a020101wearlinqdesign .block3phone .smartappcompanion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 474px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.4px;
+  line-height         : 50.0px;
+}
+.a020101wearlinqdesign .block3phone .oval {
+  background-color    : rgba(244, 249, 249, 1.0);
+  top                 : 292px;
+  height              : 614px;
+  width               : 1350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 16px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .oval .mask {
+  background-color    : rgba(244, 249, 249, 1.0);
+  top                 : 0px;
+  height              : 614px;
+  width               : 1350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .oval .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -178px;
+  height              : 950px;
+  width               : 950px;
+  position            : absolute;
+  margin              : 0;
+  left                : 220px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .oval .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 450px;
+  width               : 450px;
+  position            : absolute;
+  margin              : 0;
+  left                : 450px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 377px;
+  height              : 122px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a1 .discovertrends {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 157px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a1 .a01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block3phone .a1 .checkhowyourheart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 377px;
+  height              : 122px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 909px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a11 .inappvisits {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a11 .a04 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block3phone .a11 .getyourdatareview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 549px;
+  height              : 100px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 909px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a12 .medicationreminders {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a12 .a05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block3phone .a12 .keeptrackofyourm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 699px;
+  height              : 122px;
+  width               : 242px;
+  position            : absolute;
+  margin              : 0;
+  left                : 909px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a13 .onetapappointments {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a13 .a06 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block3phone .a13 .nomorewaitingmont {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 549px;
+  height              : 100px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a14 .tracksymptoms {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a14 .a02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block3phone .a14 .putwhatyourefeel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 699px;
+  height              : 100px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a15 .sharehistory {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .a15 .a03 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : right;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .block3phone .a15 .easilyexportpastr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : right;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block3phone .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 867px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 389px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .a19videocall2x {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 258px;
+  height              : 676px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 519px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block3phone .devicebezelsiphonexsspacegray {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 261px;
+  height              : 673px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 520px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1022px;
+  height              : 757px;
+  width               : 1131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a8blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 660px;
+  height              : 61px;
+  width               : 392px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a8blog .splashproof {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a8blog .iconwater {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a8blog .takeshowerswithout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a7blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 542px;
+  height              : 83px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a7blog .a6leadecg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a7blog .iconanalysis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a7blog .increasesdiagnostic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a6blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 402px;
+  height              : 105px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a6blog .inappcardiologists {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a6blog .iconapp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a6blog .getanswerssamewee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a5blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 105px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a5blog .instantanalysis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a5blog .instantlydetectatr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a5blog .iconwater {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a4blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 660px;
+  height              : 83px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a4blog .lightthin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a4blog .iconthin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a4blog .lessthan1cmthick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a3blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 542px;
+  height              : 83px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a3blog .longbatterylife {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a3blog .iconbattery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a3blog .eachchargelasts3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a2blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 402px;
+  height              : 105px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a2blog .continuousmedicalg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a2blog .iconheart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a2blog .recordsyourhearts {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a1blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 105px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a1blog .longtermnoninvasi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 38, 38, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .a1blog .iconsticks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block2why .a1blog .discretelystickson {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block2why .liveateaseknowing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 122px;
+  height              : auto;
+  width               : 685px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(117, 118, 118, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.a020101wearlinqdesign .block2why .whyrecordecgsnipp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : 685px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.4px;
+  line-height         : 50.0px;
+}
+.a020101wearlinqdesign .block2why .vizright {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 719px;
+  width               : 474px;
+  position            : absolute;
+  margin              : 0;
+  left                : 657px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 824px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .herobackground {
+  background-color    : rgba(244, 249, 249, 1.0);
+  top                 : 0px;
+  height              : 824px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .herobackground .mask {
+  background-color    : rgba(244, 249, 249, 1.0);
+  top                 : 0px;
+  height              : 824px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .herobackground .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -148px;
+  height              : 1120px;
+  width               : 1626px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .herobackground .background .block {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 148px;
+  height              : 824px;
+  width               : 1442px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .herobackground .background .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 305px;
+  height              : 510px;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 811px;
+  transform           : rotate(0deg);
+  opacity             : 0.1;
+}
+.a020101wearlinqdesign .block1hero .herobackground .background .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1120px;
+  width               : 1120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 506px;
+  transform           : rotate(0deg);
+  opacity             : 0.04;
+}
+.a020101wearlinqdesign .block1hero .herobackground .mockup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 755px;
+  width               : 524px;
+  position            : absolute;
+  margin              : 0;
+  left                : 906px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .herobackground .playbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 362px;
+  height              : 100px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1016px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .banner {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 540px;
+  height              : 280px;
+  width               : 640px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .banner .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 278px;
+  width               : 638px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .banner .rectangle1 {
+  background-color    : rgba(248, 64, 64, 1.0);
+  top                 : 99px;
+  height              : 2px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(-270deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .banner .a1buttons1primarysmalldefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : 40px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 454px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .banner .a1buttons1primarysmalldefault .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .banner .a1buttons1primarysmalldefault .copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 17.0px;
+}
+.a020101wearlinqdesign .block1hero .banner .supportusonindieg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 36.0px;
+}
+.a020101wearlinqdesign .block1hero .banner .helpusshapethefu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(163, 163, 163, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a020101wearlinqdesign .block1hero .banner .indiegogologogrey {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : 12px;
+  width               : 86px;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .weuseworldclassp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 438px;
+  height              : auto;
+  width               : 612px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(71, 71, 71, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.36px;
+  line-height         : 30.0px;
+}
+.a020101wearlinqdesign .block1hero .takingcareofyouh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 213px;
+  height              : auto;
+  width               : 683px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 90.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  letter-spacing      : -1.62px;
+  line-height         : 100.0px;
+}
+.a020101wearlinqdesign .block1hero .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 27px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .logo .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .block1hero .logo .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 19px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3502px;
+  height              : 433px;
+  width               : 530px;
+  position            : absolute;
+  margin              : 0;
+  left                : 915px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .rectangle7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 431px;
+  width               : 528px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .rectangle71 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 228px;
+  height              : 66px;
+  box-sizing          : border-box;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(232, 232, 232, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .getnotifiedandrec {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 101px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.5px;
+  line-height         : 36.0px;
+}
+.a020101wearlinqdesign .email .rectangle72 {
+  background-color    : rgba(251, 72, 72, 1.0);
+  top                 : 60px;
+  height              : 26px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .a20discount {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .email .icons20pxclose {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 440px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .buttonarow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 240px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .buttonarow .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .buttonarow .icons20pxback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .email .emailaddress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 248px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(204, 204, 204, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.a020101wearlinqdesign .navigation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 34px;
+  width               : 789px;
+  position            : absolute;
+  margin              : 0;
+  left                : 471px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .navigation .features {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .navigation .dot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .navigation .app {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .navigation .uses {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 194px;
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .navigation .reviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 280px;
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .navigation .meettheteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 391px;
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(25, 26, 26, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.a020101wearlinqdesign .navigation .a1buttons1primarysmalldefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 649px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .navigation .a1buttons1primarysmalldefault .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a020101wearlinqdesign .navigation .a1buttons1primarysmalldefault .copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 17.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
